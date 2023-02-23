@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Guy Peer</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Israel</h3>
 
 - 🔭 I’m currently working on [Mister Bitcoin](https://github.com/GuyPeer1/mister-bitcoin)
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **Vue** and **TypeScript**
 
 - 👯 I’m looking to collaborate on [Air PnD - airbnb clone](https://github.com/OfekAshkenazi/Sprint-4-)
 
