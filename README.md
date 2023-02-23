@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guy Peer</h1>
 <h3 align="center">A passionate frontend developer from Israel</h3>
 
-- 🔭 I’m currently working on [Mister Bitcoin](https://github.com/GuyPeer1/mister-bitcoin)
+- 🔭 I’m currently working on [Mister Bitcoin](https://github.com/GuyPeer1/mister-bitcoin), improving my VUE skills
 
 - 🌱 I’m currently learning **Vue** and **TypeScript**
 
