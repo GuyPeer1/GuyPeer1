@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Guy Peer</h1>
 <h3 align="center">A passionate frontend developer from Israel</h3>
 
-- 🔭 I’m currently working on [Mister Bitcoin](https://github.com/GuyPeer1/mister-bitcoin), improving my VUE skills
+- 🔭 I’m currently working on [Shoes reader](https://github.com/GuyPeer1/shoes-reader-vite)
 
-- 🌱 I’m currently learning **Vue** and **TypeScript**
-
-- 👯 I’m looking to collaborate on [Air PnD - airbnb clone](https://github.com/OfekAshkenazi/Sprint-4-)
+- 🌱 I’m currently learning **Next** and **TypeScript**
 
 - 💬 Ask me about **React JS, responsive web design**
 
 - 📫 How to reach me **peer.g2@gmail.com**
-
-- ⚡ Fun fact **I enjoy swimming ang mastering volleyball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
